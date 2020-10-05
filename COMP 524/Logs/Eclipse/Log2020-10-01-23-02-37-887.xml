@@ -1,0 +1,429 @@
+<Events startTimestamp="1601607757887" logVersion="1.0.0.202009141527">
+  <Command __id="1" _type="SelectTextCommand" caretOffset="126" date="Thu Oct 01 23:02:38 EDT 2020" end="126" start="121" starttimestamp="1601607757887" timestamp="250" />
+  <Command __id="4" _type="RunCommand" date="Thu Oct 01 23:02:48 EDT 2020" kind="HitBreakPoint" projectName="COMP 524" starttimestamp="1601607757887" timestamp="10500" type="Run" />
+  <Command __id="5" _type="RunCommand" date="Thu Oct 01 23:02:48 EDT 2020" kind="HitBreakPoint" projectName="COMP 524" starttimestamp="1601607757887" timestamp="10501" type="Run" />
+  <Command __id="6" _type="EHExceptionCommand" date="Thu Oct 01 23:02:48 EDT 2020" starttimestamp="1601607757887" timestamp="10925" type="Exception">
+    <outputString><![CDATA[Please enter data regarding your guest interaction.
+Distance?
+]]></outputString>
+  </Command>
+  <Command __id="7" _type="ShellCommand" date="Thu Oct 01 23:02:54 EDT 2020" starttimestamp="1601607757887" timestamp="16935" type="ECLIPSE_LOST_FOCUS" />
+  <Command __id="8" _type="ShellCommand" date="Thu Oct 01 23:03:00 EDT 2020" starttimestamp="1601607757887" timestamp="22818" type="ECLIPSE_GAINED_FOCUS" />
+  <Command __id="9" _type="EHExceptionCommand" date="Thu Oct 01 23:03:03 EDT 2020" starttimestamp="1601607757887" timestamp="25713" type="Exception">
+    <outputString><![CDATA[13
+]]></outputString>
+  </Command>
+  <Command __id="10" _type="EHExceptionCommand" date="Thu Oct 01 23:03:03 EDT 2020" starttimestamp="1601607757887" timestamp="25816" type="Exception">
+    <outputString><![CDATA[Duration?
+]]></outputString>
+  </Command>
+  <Command __id="11" _type="EHExceptionCommand" date="Thu Oct 01 23:03:05 EDT 2020" starttimestamp="1601607757887" timestamp="27321" type="Exception">
+    <outputString><![CDATA[30
+]]></outputString>
+  </Command>
+  <Command __id="12" _type="EHExceptionCommand" date="Thu Oct 01 23:03:05 EDT 2020" starttimestamp="1601607757887" timestamp="27423" type="Exception">
+    <outputString><![CDATA[Exhalation Level?
+]]></outputString>
+  </Command>
+  <Command __id="17" _type="RunCommand" date="Thu Oct 01 23:03:11 EDT 2020" kind="HitBreakPoint" projectName="COMP 524" starttimestamp="1601607757887" timestamp="33340" type="Run" />
+  <Command __id="18" _type="RunCommand" date="Thu Oct 01 23:03:11 EDT 2020" kind="HitBreakPoint" projectName="COMP 524" starttimestamp="1601607757887" timestamp="33341" type="Run" />
+  <Command __id="19" _type="EHExceptionCommand" date="Thu Oct 01 23:03:11 EDT 2020" starttimestamp="1601607757887" timestamp="33705" type="Exception">
+    <outputString><![CDATA[Please enter data regarding your guest interaction.
+Distance?
+]]></outputString>
+  </Command>
+  <Command __id="20" _type="EHExceptionCommand" date="Thu Oct 01 23:03:13 EDT 2020" starttimestamp="1601607757887" timestamp="35960" type="Exception">
+    <outputString><![CDATA[5
+]]></outputString>
+  </Command>
+  <Command __id="21" _type="EHExceptionCommand" date="Thu Oct 01 23:03:13 EDT 2020" starttimestamp="1601607757887" timestamp="36013" type="Exception">
+    <outputString><![CDATA[Duration?
+]]></outputString>
+  </Command>
+  <Command __id="22" _type="EHExceptionCommand" date="Thu Oct 01 23:03:14 EDT 2020" starttimestamp="1601607757887" timestamp="36360" type="Exception">
+    <outputString><![CDATA[5
+]]></outputString>
+  </Command>
+  <Command __id="23" _type="EHExceptionCommand" date="Thu Oct 01 23:03:14 EDT 2020" starttimestamp="1601607757887" timestamp="36412" type="Exception">
+    <outputString><![CDATA[Exhalation Level?
+]]></outputString>
+  </Command>
+  <Command __id="24" _type="EHExceptionCommand" date="Thu Oct 01 23:03:14 EDT 2020" starttimestamp="1601607757887" timestamp="36679" type="Exception">
+    <outputString><![CDATA[5
+]]></outputString>
+  </Command>
+  <Command __id="25" _type="EHExceptionCommand" date="Thu Oct 01 23:03:14 EDT 2020" starttimestamp="1601607757887" timestamp="36781" type="Exception">
+    <outputString><![CDATA[java.beans.PropertyChangeEvent[propertyName=distance; oldValue=null; newValue=5; propagationId=null; source=AppModelBasic@1d251891]
+java.beans.PropertyChangeEvent[propertyName=duration; oldValue=null; newValue=5; propagationId=null; source=AppModelBasic@1d251891]
+java.beans.PropertyChangeEvent[propertyName=exhalation level; oldValue=null; newValue=5; propagationId=null; source=AppModelBasic@1d251891]
+java.beans.PropertyChangeEvent[propertyName=safe; oldValue=null; newValue=false; propagationId=null; source=AppModelBasic@1d251891]
+Not Safe!
+Please enter data regarding your guest interaction.
+Distance?
+]]></outputString>
+  </Command>
+  <Command __id="26" _type="EHExceptionCommand" date="Thu Oct 01 23:03:17 EDT 2020" starttimestamp="1601607757887" timestamp="40011" type="Exception">
+    <outputString><![CDATA[20
+]]></outputString>
+  </Command>
+  <Command __id="27" _type="EHExceptionCommand" date="Thu Oct 01 23:03:18 EDT 2020" starttimestamp="1601607757887" timestamp="40113" type="Exception">
+    <outputString><![CDATA[Duration?
+]]></outputString>
+  </Command>
+  <Command __id="34" _type="RunCommand" date="Thu Oct 01 23:03:26 EDT 2020" kind="HitBreakPoint" projectName="COMP 524" starttimestamp="1601607757887" timestamp="48537" type="Run" />
+  <Command __id="35" _type="RunCommand" date="Thu Oct 01 23:03:26 EDT 2020" kind="HitBreakPoint" projectName="COMP 524" starttimestamp="1601607757887" timestamp="48538" type="Run" />
+  <Command __id="36" _type="EHExceptionCommand" date="Thu Oct 01 23:03:26 EDT 2020" starttimestamp="1601607757887" timestamp="48968" type="Exception">
+    <outputString><![CDATA[Please enter data regarding your guest interaction.
+Distance?
+]]></outputString>
+  </Command>
+  <Command __id="37" _type="EHExceptionCommand" date="Thu Oct 01 23:03:29 EDT 2020" starttimestamp="1601607757887" timestamp="51704" type="Exception">
+    <outputString><![CDATA[13
+]]></outputString>
+  </Command>
+  <Command __id="38" _type="EHExceptionCommand" date="Thu Oct 01 23:03:29 EDT 2020" starttimestamp="1601607757887" timestamp="51807" type="Exception">
+    <outputString><![CDATA[Duration?
+]]></outputString>
+  </Command>
+  <Command __id="39" _type="EHExceptionCommand" date="Thu Oct 01 23:03:30 EDT 2020" starttimestamp="1601607757887" timestamp="52304" type="Exception">
+    <outputString><![CDATA[30
+]]></outputString>
+  </Command>
+  <Command __id="40" _type="EHExceptionCommand" date="Thu Oct 01 23:03:30 EDT 2020" starttimestamp="1601607757887" timestamp="52356" type="Exception">
+    <outputString><![CDATA[Exhalation Level?
+]]></outputString>
+  </Command>
+  <Command __id="41" _type="EHExceptionCommand" date="Thu Oct 01 23:03:30 EDT 2020" starttimestamp="1601607757887" timestamp="52832" type="Exception">
+    <outputString><![CDATA[30
+]]></outputString>
+  </Command>
+  <Command __id="42" _type="EHExceptionCommand" date="Thu Oct 01 23:03:30 EDT 2020" starttimestamp="1601607757887" timestamp="52935" type="Exception">
+    <outputString><![CDATA[java.beans.PropertyChangeEvent[propertyName=distance; oldValue=null; newValue=13; propagationId=null; source=AppModelBasic@1d251891]
+java.beans.PropertyChangeEvent[propertyName=duration; oldValue=null; newValue=30; propagationId=null; source=AppModelBasic@1d251891]
+java.beans.PropertyChangeEvent[propertyName=exhalation level; oldValue=null; newValue=30; propagationId=null; source=AppModelBasic@1d251891]
+java.beans.PropertyChangeEvent[propertyName=safe; oldValue=null; newValue=true; propagationId=null; source=AppModelBasic@1d251891]
+Safe.
+Please enter data regarding your guest interaction.
+Distance?
+]]></outputString>
+  </Command>
+  <Command __id="43" _type="EHExceptionCommand" date="Thu Oct 01 23:03:33 EDT 2020" starttimestamp="1601607757887" timestamp="55272" type="Exception">
+    <outputString><![CDATA[5
+]]></outputString>
+  </Command>
+  <Command __id="44" _type="EHExceptionCommand" date="Thu Oct 01 23:03:33 EDT 2020" starttimestamp="1601607757887" timestamp="55374" type="Exception">
+    <outputString><![CDATA[Duration?
+]]></outputString>
+  </Command>
+  <Command __id="45" _type="EHExceptionCommand" date="Thu Oct 01 23:03:33 EDT 2020" starttimestamp="1601607757887" timestamp="55976" type="Exception">
+    <outputString><![CDATA[5
+]]></outputString>
+  </Command>
+  <Command __id="46" _type="EHExceptionCommand" date="Thu Oct 01 23:03:33 EDT 2020" starttimestamp="1601607757887" timestamp="56077" type="Exception">
+    <outputString><![CDATA[Exhalation Level?
+]]></outputString>
+  </Command>
+  <Command __id="47" _type="EHExceptionCommand" date="Thu Oct 01 23:03:34 EDT 2020" starttimestamp="1601607757887" timestamp="56328" type="Exception">
+    <outputString><![CDATA[5
+]]></outputString>
+  </Command>
+  <Command __id="48" _type="EHExceptionCommand" date="Thu Oct 01 23:03:34 EDT 2020" starttimestamp="1601607757887" timestamp="56430" type="Exception">
+    <outputString><![CDATA[java.beans.PropertyChangeEvent[propertyName=distance; oldValue=null; newValue=5; propagationId=null; source=AppModelBasic@1d251891]
+java.beans.PropertyChangeEvent[propertyName=duration; oldValue=null; newValue=5; propagationId=null; source=AppModelBasic@1d251891]
+java.beans.PropertyChangeEvent[propertyName=exhalation level; oldValue=null; newValue=5; propagationId=null; source=AppModelBasic@1d251891]
+java.beans.PropertyChangeEvent[propertyName=safe; oldValue=null; newValue=false; propagationId=null; source=AppModelBasic@1d251891]
+Not Safe!
+Please enter data regarding your guest interaction.
+Distance?
+]]></outputString>
+  </Command>
+  <Command __id="49" _type="ShellCommand" date="Thu Oct 01 23:03:36 EDT 2020" starttimestamp="1601607757887" timestamp="58197" type="ECLIPSE_LOST_FOCUS" />
+  <Command __id="51" _type="RunCommand" date="Thu Oct 01 23:04:25 EDT 2020" kind="HitBreakPoint" projectName="COMP 524" starttimestamp="1601607757887" timestamp="107687" type="Run" />
+  <Command __id="52" _type="EHExceptionCommand" date="Thu Oct 01 23:04:26 EDT 2020" starttimestamp="1601607757887" timestamp="108161" type="Exception">
+    <outputString><![CDATA[Please enter data regarding your guest interaction.
+Distance?
+]]></outputString>
+  </Command>
+  <Command __id="53" _type="EHExceptionCommand" date="Thu Oct 01 23:04:31 EDT 2020" starttimestamp="1601607757887" timestamp="113944" type="Exception">
+    <outputString><![CDATA[5
+]]></outputString>
+  </Command>
+  <Command __id="54" _type="EHExceptionCommand" date="Thu Oct 01 23:04:31 EDT 2020" starttimestamp="1601607757887" timestamp="114046" type="Exception">
+    <outputString><![CDATA[Duration?
+]]></outputString>
+  </Command>
+  <Command __id="55" _type="EHExceptionCommand" date="Thu Oct 01 23:04:32 EDT 2020" starttimestamp="1601607757887" timestamp="114735" type="Exception">
+    <outputString><![CDATA[5
+]]></outputString>
+  </Command>
+  <Command __id="56" _type="EHExceptionCommand" date="Thu Oct 01 23:04:32 EDT 2020" starttimestamp="1601607757887" timestamp="114837" type="Exception">
+    <outputString><![CDATA[Exhalation Level?
+]]></outputString>
+  </Command>
+  <Command __id="57" _type="EHExceptionCommand" date="Thu Oct 01 23:04:33 EDT 2020" starttimestamp="1601607757887" timestamp="115223" type="Exception">
+    <outputString><![CDATA[5
+]]></outputString>
+  </Command>
+  <Command __id="58" _type="EHExceptionCommand" date="Thu Oct 01 23:04:33 EDT 2020" starttimestamp="1601607757887" timestamp="115325" type="Exception">
+    <outputString><![CDATA[java.beans.PropertyChangeEvent[propertyName=distance; oldValue=null; newValue=5; propagationId=null; source=AppModelInterpolation@1d251891]
+java.beans.PropertyChangeEvent[propertyName=duration; oldValue=null; newValue=5; propagationId=null; source=AppModelInterpolation@1d251891]
+java.beans.PropertyChangeEvent[propertyName=exhalation level; oldValue=null; newValue=5; propagationId=null; source=AppModelInterpolation@1d251891]
+java.beans.PropertyChangeEvent[propertyName=safe; oldValue=null; newValue=false; propagationId=null; source=AppModelInterpolation@1d251891]
+Not Safe!
+Please enter data regarding your guest interaction.
+Distance?
+]]></outputString>
+  </Command>
+  <Command __id="59" _type="EHExceptionCommand" date="Thu Oct 01 23:04:35 EDT 2020" starttimestamp="1601607757887" timestamp="117175" type="Exception">
+    <outputString><![CDATA[20
+]]></outputString>
+  </Command>
+  <Command __id="60" _type="EHExceptionCommand" date="Thu Oct 01 23:04:35 EDT 2020" starttimestamp="1601607757887" timestamp="117277" type="Exception">
+    <outputString><![CDATA[Duration?
+]]></outputString>
+  </Command>
+  <Command __id="61" _type="EHExceptionCommand" date="Thu Oct 01 23:04:35 EDT 2020" starttimestamp="1601607757887" timestamp="117935" type="Exception">
+    <outputString><![CDATA[20
+]]></outputString>
+  </Command>
+  <Command __id="62" _type="EHExceptionCommand" date="Thu Oct 01 23:04:35 EDT 2020" starttimestamp="1601607757887" timestamp="117988" type="Exception">
+    <outputString><![CDATA[Exhalation Level?
+]]></outputString>
+  </Command>
+  <Command __id="63" _type="EHExceptionCommand" date="Thu Oct 01 23:04:36 EDT 2020" starttimestamp="1601607757887" timestamp="118447" type="Exception">
+    <outputString><![CDATA[20
+]]></outputString>
+  </Command>
+  <Command __id="64" _type="EHExceptionCommand" date="Thu Oct 01 23:04:36 EDT 2020" starttimestamp="1601607757887" timestamp="118499" type="Exception">
+    <outputString><![CDATA[java.beans.PropertyChangeEvent[propertyName=distance; oldValue=null; newValue=20; propagationId=null; source=AppModelInterpolation@1d251891]
+java.beans.PropertyChangeEvent[propertyName=duration; oldValue=null; newValue=20; propagationId=null; source=AppModelInterpolation@1d251891]
+java.beans.PropertyChangeEvent[propertyName=exhalation level; oldValue=null; newValue=20; propagationId=null; source=AppModelInterpolation@1d251891]
+java.beans.PropertyChangeEvent[propertyName=safe; oldValue=null; newValue=true; propagationId=null; source=AppModelInterpolation@1d251891]
+Safe.
+Please enter data regarding your guest interaction.
+Distance?
+]]></outputString>
+  </Command>
+  <Command __id="65" _type="ShellCommand" date="Thu Oct 01 23:04:39 EDT 2020" starttimestamp="1601607757887" timestamp="121905" type="ECLIPSE_LOST_FOCUS" />
+  <Command __id="66" _type="ShellCommand" date="Thu Oct 01 23:04:41 EDT 2020" starttimestamp="1601607757887" timestamp="123249" type="ECLIPSE_GAINED_FOCUS" />
+  <Command __id="67" _type="EHExceptionCommand" date="Thu Oct 01 23:04:42 EDT 2020" starttimestamp="1601607757887" timestamp="124631" type="Exception">
+    <outputString><![CDATA[
+]]></outputString>
+  </Command>
+  <Command __id="68" _type="EHExceptionCommand" date="Thu Oct 01 23:04:47 EDT 2020" starttimestamp="1601607757887" timestamp="129400" type="Exception">
+    <outputString><![CDATA[-1
+]]></outputString>
+  </Command>
+  <Command __id="69" _type="RunCommand" date="Thu Oct 01 23:04:47 EDT 2020" kind="HitBreakPoint" projectName="COMP 524" starttimestamp="1601607757887" timestamp="129413" type="Run" />
+  <Command __id="70" _type="RunCommand" date="Thu Oct 01 23:04:47 EDT 2020" kind="HitBreakPoint" projectName="COMP 524" starttimestamp="1601607757887" timestamp="129413" type="Run" />
+  <Command __id="71" _type="EHExceptionCommand" date="Thu Oct 01 23:04:47 EDT 2020" starttimestamp="1601607757887" timestamp="129503" type="Exception">
+    <outputString><![CDATA[Quitting
+]]></outputString>
+  </Command>
+  <Command __id="72" _type="ShellCommand" date="Thu Oct 01 23:04:49 EDT 2020" starttimestamp="1601607757887" timestamp="131749" type="ECLIPSE_LOST_FOCUS" />
+  <Command __id="74" _type="RunCommand" date="Thu Oct 01 23:05:54 EDT 2020" kind="HitBreakPoint" projectName="COMP 524" starttimestamp="1601607757887" timestamp="196279" type="Run" />
+  <Command __id="75" _type="RunCommand" date="Thu Oct 01 23:05:54 EDT 2020" kind="HitBreakPoint" projectName="COMP 524" starttimestamp="1601607757887" timestamp="196279" type="Run" />
+  <Command __id="76" _type="EHExceptionCommand" date="Thu Oct 01 23:05:54 EDT 2020" starttimestamp="1601607757887" timestamp="196692" type="Exception">
+    <outputString><![CDATA[Please enter data regarding your guest interaction.
+Distance?
+]]></outputString>
+  </Command>
+  <Command __id="77" _type="EHExceptionCommand" date="Thu Oct 01 23:05:57 EDT 2020" starttimestamp="1601607757887" timestamp="199902" type="Exception">
+    <outputString><![CDATA[5
+]]></outputString>
+  </Command>
+  <Command __id="78" _type="EHExceptionCommand" date="Thu Oct 01 23:05:57 EDT 2020" starttimestamp="1601607757887" timestamp="199955" type="Exception">
+    <outputString><![CDATA[Duration?
+]]></outputString>
+  </Command>
+  <Command __id="79" _type="EHExceptionCommand" date="Thu Oct 01 23:05:58 EDT 2020" starttimestamp="1601607757887" timestamp="200231" type="Exception">
+    <outputString><![CDATA[5
+]]></outputString>
+  </Command>
+  <Command __id="80" _type="EHExceptionCommand" date="Thu Oct 01 23:05:58 EDT 2020" starttimestamp="1601607757887" timestamp="200332" type="Exception">
+    <outputString><![CDATA[Exhalation Level?
+]]></outputString>
+  </Command>
+  <Command __id="81" _type="EHExceptionCommand" date="Thu Oct 01 23:05:58 EDT 2020" starttimestamp="1601607757887" timestamp="200543" type="Exception">
+    <outputString><![CDATA[5
+]]></outputString>
+  </Command>
+  <Command __id="82" _type="EHExceptionCommand" date="Thu Oct 01 23:05:58 EDT 2020" starttimestamp="1601607757887" timestamp="200644" type="Exception">
+    <outputString><![CDATA[java.beans.PropertyChangeEvent[propertyName=distance; oldValue=null; newValue=5; propagationId=null; source=AppModelDerived@1d251891]
+java.beans.PropertyChangeEvent[propertyName=duration; oldValue=null; newValue=5; propagationId=null; source=AppModelDerived@1d251891]
+java.beans.PropertyChangeEvent[propertyName=exhalation level; oldValue=null; newValue=5; propagationId=null; source=AppModelDerived@1d251891]
+java.beans.PropertyChangeEvent[propertyName=safe; oldValue=null; newValue=false; propagationId=null; source=AppModelDerived@1d251891]
+Not Safe!
+Please enter data regarding your guest interaction.
+Distance?
+]]></outputString>
+  </Command>
+  <Command __id="83" _type="EHExceptionCommand" date="Thu Oct 01 23:05:59 EDT 2020" starttimestamp="1601607757887" timestamp="201903" type="Exception">
+    <outputString><![CDATA[20
+]]></outputString>
+  </Command>
+  <Command __id="84" _type="EHExceptionCommand" date="Thu Oct 01 23:05:59 EDT 2020" starttimestamp="1601607757887" timestamp="202004" type="Exception">
+    <outputString><![CDATA[Duration?
+]]></outputString>
+  </Command>
+  <Command __id="85" _type="EHExceptionCommand" date="Thu Oct 01 23:06:00 EDT 2020" starttimestamp="1601607757887" timestamp="202463" type="Exception">
+    <outputString><![CDATA[20
+]]></outputString>
+  </Command>
+  <Command __id="86" _type="EHExceptionCommand" date="Thu Oct 01 23:06:00 EDT 2020" starttimestamp="1601607757887" timestamp="202565" type="Exception">
+    <outputString><![CDATA[Exhalation Level?
+]]></outputString>
+  </Command>
+  <Command __id="87" _type="EHExceptionCommand" date="Thu Oct 01 23:06:00 EDT 2020" starttimestamp="1601607757887" timestamp="202982" type="Exception">
+    <outputString><![CDATA[20
+]]></outputString>
+  </Command>
+  <Command __id="88" _type="EHExceptionCommand" date="Thu Oct 01 23:06:00 EDT 2020" starttimestamp="1601607757887" timestamp="203034" type="Exception">
+    <outputString><![CDATA[java.beans.PropertyChangeEvent[propertyName=distance; oldValue=null; newValue=20; propagationId=null; source=AppModelDerived@1d251891]
+java.beans.PropertyChangeEvent[propertyName=duration; oldValue=null; newValue=20; propagationId=null; source=AppModelDerived@1d251891]
+java.beans.PropertyChangeEvent[propertyName=exhalation level; oldValue=null; newValue=20; propagationId=null; source=AppModelDerived@1d251891]
+java.beans.PropertyChangeEvent[propertyName=safe; oldValue=null; newValue=true; propagationId=null; source=AppModelDerived@1d251891]
+Safe.
+Please enter data regarding your guest interaction.
+Distance?
+]]></outputString>
+  </Command>
+  <Command __id="89" _type="EHExceptionCommand" date="Thu Oct 01 23:06:03 EDT 2020" starttimestamp="1601607757887" timestamp="205614" type="Exception">
+    <outputString><![CDATA[-1
+]]></outputString>
+  </Command>
+  <Command __id="90" _type="RunCommand" date="Thu Oct 01 23:06:03 EDT 2020" kind="HitBreakPoint" projectName="COMP 524" starttimestamp="1601607757887" timestamp="205627" type="Run" />
+  <Command __id="91" _type="RunCommand" date="Thu Oct 01 23:06:03 EDT 2020" kind="HitBreakPoint" projectName="COMP 524" starttimestamp="1601607757887" timestamp="205627" type="Run" />
+  <Command __id="92" _type="EHExceptionCommand" date="Thu Oct 01 23:06:03 EDT 2020" starttimestamp="1601607757887" timestamp="205666" type="Exception">
+    <outputString><![CDATA[Quitting
+]]></outputString>
+  </Command>
+  <Command __id="93" _type="ShellCommand" date="Thu Oct 01 23:06:04 EDT 2020" starttimestamp="1601607757887" timestamp="206968" type="ECLIPSE_LOST_FOCUS" />
+  <Command __id="94" _type="ShellCommand" date="Thu Oct 01 23:06:34 EDT 2020" starttimestamp="1601607757887" timestamp="236501" type="ECLIPSE_GAINED_FOCUS" />
+  <Command __id="95" _type="MoveCaretCommand" caretOffset="25" date="Thu Oct 01 23:06:34 EDT 2020" docOffset="25" starttimestamp="1601607757887" timestamp="236592" />
+  <Command __id="0" _type="DiffBasedFileOpenCommand" date="Thu Oct 01 23:02:38 EDT 2020" docASTNodeCount="33" docActiveCodeLength="230" docExpressionCount="17" docLength="230" projectName="COMP 524" starttimestamp="1601607757887" timestamp="217">
+    <filePath><![CDATA[E:\Users\Jackson\Desktop\SCHOOL\COMP\Assignment-1\src\COMP 524\src\AppMainBasic.java]]></filePath>
+    <diff><![CDATA[null]]></diff>
+    <snapshot><![CDATA[
+public class AppMainBasic {
+
+	public static void main(String[] args) 
+	{
+		SDModelFactory.setSingleton(new AppModelBasic());
+		SDControllerFactory.setSingleton(new SDController());
+		MVCApp.startMVC();
+		
+		
+	}
+
+
+}
+]]></snapshot>
+  </Command>
+  <Command __id="96" _type="MoveCaretCommand" caretOffset="31" date="Thu Oct 01 23:06:38 EDT 2020" docOffset="31" starttimestamp="1601607757887" timestamp="240825" />
+  <Command __id="99" _type="DiffBasedFileOpenCommand" date="Thu Oct 01 23:06:48 EDT 2020" docASTNodeCount="33" docActiveCodeLength="234" docExpressionCount="17" docLength="234" projectName="COMP 524" starttimestamp="1601607757887" timestamp="250522">
+    <filePath><![CDATA[E:\Users\Jackson\Desktop\SCHOOL\COMP\Assignment-1\src\COMP 524\src\AppMainDerived.java]]></filePath>
+    <diff><![CDATA[null]]></diff>
+    <snapshot><![CDATA[
+public class AppMainDerived {
+
+	public static void main(String[] args) 
+	{
+		SDModelFactory.setSingleton(new AppModelDerived());
+		SDControllerFactory.setSingleton(new SDController());
+		MVCApp.startMVC();
+		
+		
+	}
+
+
+}
+]]></snapshot>
+  </Command>
+  <Command __id="100" _type="MoveCaretCommand" caretOffset="0" date="Thu Oct 01 23:06:48 EDT 2020" docOffset="0" starttimestamp="1601607757887" timestamp="250712" />
+  <Command __id="103" _type="RunCommand" date="Thu Oct 01 23:06:53 EDT 2020" kind="HitBreakPoint" projectName="COMP 524" starttimestamp="1601607757887" timestamp="255828" type="Run" />
+  <Command __id="104" _type="RunCommand" date="Thu Oct 01 23:06:53 EDT 2020" kind="HitBreakPoint" projectName="COMP 524" starttimestamp="1601607757887" timestamp="255828" type="Run" />
+  <Command __id="105" _type="EHExceptionCommand" date="Thu Oct 01 23:06:54 EDT 2020" starttimestamp="1601607757887" timestamp="256144" type="Exception">
+    <outputString><![CDATA[Please enter data regarding your guest interaction.
+Distance?
+]]></outputString>
+  </Command>
+  <Command __id="106" _type="EHExceptionCommand" date="Thu Oct 01 23:06:55 EDT 2020" starttimestamp="1601607757887" timestamp="257814" type="Exception">
+    <outputString><![CDATA[5
+]]></outputString>
+  </Command>
+  <Command __id="107" _type="EHExceptionCommand" date="Thu Oct 01 23:06:55 EDT 2020" starttimestamp="1601607757887" timestamp="257917" type="Exception">
+    <outputString><![CDATA[Duration?
+]]></outputString>
+  </Command>
+  <Command __id="108" _type="EHExceptionCommand" date="Thu Oct 01 23:06:56 EDT 2020" starttimestamp="1601607757887" timestamp="258207" type="Exception">
+    <outputString><![CDATA[5
+]]></outputString>
+  </Command>
+  <Command __id="109" _type="EHExceptionCommand" date="Thu Oct 01 23:06:56 EDT 2020" starttimestamp="1601607757887" timestamp="258309" type="Exception">
+    <outputString><![CDATA[Exhalation Level?
+]]></outputString>
+  </Command>
+  <Command __id="110" _type="EHExceptionCommand" date="Thu Oct 01 23:06:56 EDT 2020" starttimestamp="1601607757887" timestamp="258558" type="Exception">
+    <outputString><![CDATA[5
+]]></outputString>
+  </Command>
+  <Command __id="111" _type="EHExceptionCommand" date="Thu Oct 01 23:06:56 EDT 2020" starttimestamp="1601607757887" timestamp="258611" type="Exception">
+    <outputString><![CDATA[java.beans.PropertyChangeEvent[propertyName=distance; oldValue=null; newValue=5; propagationId=null; source=AppModelInferred@1d251891]
+java.beans.PropertyChangeEvent[propertyName=duration; oldValue=null; newValue=5; propagationId=null; source=AppModelInferred@1d251891]
+java.beans.PropertyChangeEvent[propertyName=exhalation level; oldValue=null; newValue=5; propagationId=null; source=AppModelInferred@1d251891]
+]]></outputString>
+  </Command>
+  <Command __id="112" _type="EHExceptionCommand" date="Thu Oct 01 23:06:56 EDT 2020" starttimestamp="1601607757887" timestamp="258798" type="Exception">
+    <outputString><![CDATA[java.beans.PropertyChangeEvent[propertyName=safe; oldValue=null; newValue=false; propagationId=null; source=AppModelInferred@1d251891]
+Not Safe!
+Please enter data regarding your guest interaction.
+Distance?
+]]></outputString>
+  </Command>
+  <Command __id="113" _type="EHExceptionCommand" date="Thu Oct 01 23:06:58 EDT 2020" starttimestamp="1601607757887" timestamp="260318" type="Exception">
+    <outputString><![CDATA[20
+]]></outputString>
+  </Command>
+  <Command __id="114" _type="EHExceptionCommand" date="Thu Oct 01 23:06:58 EDT 2020" starttimestamp="1601607757887" timestamp="260370" type="Exception">
+    <outputString><![CDATA[Duration?
+]]></outputString>
+  </Command>
+  <Command __id="115" _type="EHExceptionCommand" date="Thu Oct 01 23:06:58 EDT 2020" starttimestamp="1601607757887" timestamp="260878" type="Exception">
+    <outputString><![CDATA[20
+]]></outputString>
+  </Command>
+  <Command __id="116" _type="EHExceptionCommand" date="Thu Oct 01 23:06:58 EDT 2020" starttimestamp="1601607757887" timestamp="260980" type="Exception">
+    <outputString><![CDATA[Exhalation Level?
+]]></outputString>
+  </Command>
+  <Command __id="117" _type="EHExceptionCommand" date="Thu Oct 01 23:06:59 EDT 2020" starttimestamp="1601607757887" timestamp="261407" type="Exception">
+    <outputString><![CDATA[20
+]]></outputString>
+  </Command>
+  <Command __id="118" _type="EHExceptionCommand" date="Thu Oct 01 23:06:59 EDT 2020" starttimestamp="1601607757887" timestamp="261509" type="Exception">
+    <outputString><![CDATA[java.beans.PropertyChangeEvent[propertyName=distance; oldValue=null; newValue=20; propagationId=null; source=AppModelInferred@1d251891]
+java.beans.PropertyChangeEvent[propertyName=duration; oldValue=null; newValue=20; propagationId=null; source=AppModelInferred@1d251891]
+java.beans.PropertyChangeEvent[propertyName=exhalation level; oldValue=null; newValue=20; propagationId=null; source=AppModelInferred@1d251891]
+java.beans.PropertyChangeEvent[propertyName=safe; oldValue=null; newValue=true; propagationId=null; source=AppModelInferred@1d251891]
+Safe.
+Please enter data regarding your guest interaction.
+Distance?
+]]></outputString>
+  </Command>
+  <Command __id="119" _type="EHExceptionCommand" date="Thu Oct 01 23:07:02 EDT 2020" starttimestamp="1601607757887" timestamp="264366" type="Exception">
+    <outputString><![CDATA[-1
+]]></outputString>
+  </Command>
+  <Command __id="120" _type="RunCommand" date="Thu Oct 01 23:07:02 EDT 2020" kind="HitBreakPoint" projectName="COMP 524" starttimestamp="1601607757887" timestamp="264385" type="Run" />
+  <Command __id="121" _type="RunCommand" date="Thu Oct 01 23:07:02 EDT 2020" kind="HitBreakPoint" projectName="COMP 524" starttimestamp="1601607757887" timestamp="264385" type="Run" />
+  <Command __id="122" _type="EHExceptionCommand" date="Thu Oct 01 23:07:02 EDT 2020" starttimestamp="1601607757887" timestamp="264419" type="Exception">
+    <outputString><![CDATA[Quitting
+]]></outputString>
+  </Command>
+  <Command __id="123" _type="ShellCommand" date="Thu Oct 01 23:07:04 EDT 2020" starttimestamp="1601607757887" timestamp="266862" type="ECLIPSE_LOST_FOCUS" />
+  <Command __id="124" _type="ShellCommand" date="Thu Oct 01 23:07:25 EDT 2020" starttimestamp="1601607757887" timestamp="287758" type="ECLIPSE_GAINED_FOCUS" />
+  <Command __id="125" _type="ShellCommand" date="Thu Oct 01 23:07:31 EDT 2020" starttimestamp="1601607757887" timestamp="293233" type="ECLIPSE_LOST_FOCUS" />
+  <Command __id="126" _type="ShellCommand" date="Thu Oct 01 23:08:20 EDT 2020" starttimestamp="1601607757887" timestamp="342946" type="ECLIPSE_GAINED_FOCUS" />
+  <Command __id="127" _type="ShellCommand" date="Thu Oct 01 23:08:20 EDT 2020" starttimestamp="1601607757887" timestamp="343026" type="ECLIPSE_LOST_FOCUS" />
+</Events>
