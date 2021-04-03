@@ -20,10 +20,10 @@ instance, the guest was quiet, talking or coughing/sneezing.
 For each parameter, three points are defined: small, medium, and large. The following
 table gives the current values of these points.
 
-Small Medium Large
-Distance 6 13 27
-Duration 15 30 120
-Exhalation Level 10 30 50
+Small Medium Large<br />
+Distance 6 13 27<br />
+Duration 15 30 120<br />
+Exhalation Level 10 30 50<br />
 
 Table 1 Small, Medium and Large Values
 
