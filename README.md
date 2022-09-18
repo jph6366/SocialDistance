@@ -29,16 +29,4 @@ Distance 6 13 27<br />
 Duration 15 30 120<br />
 Exhalation Level 10 30 50<br />
 
-Table 1 Small, Medium and Large Values
 
-Assume the following table contains the safe combinations of these points.
-Distance Duration Exhalation Level
-Medium Medium Medium<br />
-Small Medium Small<br />
-Large Medium Large<br />
-Medium Small Large<br />
-Medium Large Small<br />
-Large Large Medium<br />
-Small Small Medium<br />
-
-Table 2 Assumed Given Safe Combinations
